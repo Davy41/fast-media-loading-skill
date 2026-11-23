@@ -1,0 +1,13 @@
+{
+  "name": "fast-media-loading-skill",
+  "owner": {
+    "name": "Ibambasi Davy"
+  },
+  "plugins": [
+    {
+      "name": "fast-media-loading",
+      "source": "./",
+      "description": "Audit and optimize image, video and media loading in web applications."
+    }
+  ]
+}
