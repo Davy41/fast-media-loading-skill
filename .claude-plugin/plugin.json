@@ -1,0 +1,12 @@
+{
+  "name": "fast-media-loading",
+  "description": "Audit and optimize image, video and media loading in web applications: formats, responsive sizes, lazy loading, CDN and caching.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ibambasi Davy"
+  },
+  "homepage": "https://github.com/davy41/fast-media-loading-skill",
+  "repository": "https://github.com/davy41/fast-media-loading-skill",
+  "license": "MIT",
+  "keywords": ["performance", "images", "video", "lazy-loading", "core-web-vitals", "cdn"]
+}
